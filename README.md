@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Oto moje repozytorium osobiste :)
+
+Miło że tutaj jesteś choć nie wiem czego tutaj szukasz skoro tutaj zajrzałeś a tutaj niczego nie ma :O
+
 <!--
 **szojusz/szojusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
